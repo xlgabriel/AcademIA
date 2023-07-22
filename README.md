@@ -22,7 +22,7 @@ The project was divided into two systems: LMS and Chat. My area of ​​work fo
 I personally find satisfaction in creating something from scratch, especially when it means optimizing the workflow of other professionals. The role fit perfectly with this notion, so even with little experience in this field, I spent quite a bit of time to live up to such an important role.
 
 <h2>Getting started as a Scrum Master</h2>
-Many things had to be defined immediately, but the first thing was the means of communication. First of all, as a team we agreed to use WhatsApp groups to expedite and communicate directly (at the university level, it is common to do this). In addition to this, I defined the use of Discord as fundamental for everything related to meetings, handling of audiovisual elements, communications, information and others. Slack was a similar option, but due to the habit of the other colleagues, I chose Discord as the best option. Next, the composition of the channel is displayed.<br/>
+Many things had to be defined immediately, but the first thing was the means of communication. First of all, as a team we agreed to use WhatsApp groups to expedite and communicate directly (at the university level, it is common to do this). In addition to this, I defined the use of Discord as fundamental for everything related to meetings, handling of audiovisual elements, communications, information and others. Slack was a similar option, but due to the habit of the other colleagues, I chose Discord as the best option. Next, the composition of the channel is displayed.<br/><br />
 <p align="center">
 Discord channel created by me<br/>
 <a href="https://imgur.com/AUUAxJO"><img src="https://i.imgur.com/AUUAxJO.png" title="source: imgur.com" /></a>
