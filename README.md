@@ -21,10 +21,24 @@ The project was divided into two systems: LMS and Chat. My area of ​​work fo
 I personally find satisfaction in creating something from scratch, especially when it means optimizing the workflow of other professionals. The role fit perfectly with this notion, so even with little experience in this field, I spent quite a bit of time to live up to such an important role.
 
 <h2>Getting started as a Scrum Master</h2>
-Many things had to be defined immediately, but the first thing was the means of communication. First of all, as a team we agreed to use WhatsApp groups to expedite and communicate directly (at the university level, it is common to do this). In addition to this, I defined the use of Discord as fundamental for everything related to meetings, handling of audiovisual elements, communications, information and others. Slack was a similar option, but due to the habit of the other colleagues, I chose Discord as the best option. Next, the composition of the channel is displayed.
+Many things had to be defined immediately, but the first thing was the means of communication. First of all, as a team we agreed to use WhatsApp groups to expedite and communicate directly (at the university level, it is common to do this). In addition to this, I defined the use of Discord as fundamental for everything related to meetings, handling of audiovisual elements, communications, information and others. Slack was a similar option, but due to the habit of the other colleagues, I chose Discord as the best option. Next, the composition of the channel is displayed.<br/>
 <p align="center">
 Discord channel created by me<br/>
 <a href="https://imgur.com/AUUAxJO"><img src="https://i.imgur.com/AUUAxJO.png" title="source: imgur.com" /></a>
 <br />
 <p align="left">
 You can see a distribution by roles in the names of each user, in the same way they are also created and configured internally. Each person has their own channel and shared channels by role, which certainly made communication between the same role and different roles easier. There are channels for files, messages, memes and information. There are several voice channels, even the professor (Software Architect) was on the Discord and used it to communicate.
+
+<h2>User Stories, Miro and Taiga</h2>
+User stories were created from scratch. We had to visualize and capture the functions of the final product, based on real examples such as Classroom, Google Hangouts and other LMS/Chats on the market. The Product Owner and I created the epic user stories, then I was in charge of creating the second generation ones and their validation criteria. You can see an example of this on the following image.<br />
+<p align="center">
+One of the epics user story with it's children<br/>
+<a href="https://imgur.com/NN4eOV7"><img src="https://i.imgur.com/NN4eOV7.png" title="source: imgur.com" /></a>
+<br />
+<p align="left">
+Once the epic user stories were ready, the Product Owner presented the concept and process to arrive at them. Later, I participated to plan the first Sprint, using Scrum Poker as the ideal tool to define the weight of each one and our commitment to fulfill.
+<p align="center">
+Scrum Poker tool used<br/>
+<a href="https://imgur.com/TdQZprY"><img src="https://i.imgur.com/TdQZprY.png" title="source: imgur.com" /></a>
+<br />
+<p align="left">
