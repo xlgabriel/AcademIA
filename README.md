@@ -43,3 +43,12 @@ Scrum Poker tool used<br/>
 <a href="https://imgur.com/TdQZprY"><img src="https://i.imgur.com/TdQZprY.png" title="source: imgur.com" /></a>
 <br />
 <p align="left">
+After having defined the user stories that will be completed in the first Sprint, I had the task of organizing and assigning the team in Jira, however, after a month I had to transfer everything to Taiga because the free trial in Jira ended. This was inconvenient for everyone, but I acted as quickly as possible to avoid delays and problems. Taiga is quite similar to Jira, in fact the only notable difference was that Taiga doesn't have built-in metrics, so I had to create the KPIs from scratch.
+<p align="center">
+Taiga - 3rd Sprint<br/>
+<a href="https://imgur.com/aAgRFCv"><img src="https://i.imgur.com/aAgRFCv.png" title="source: imgur.com" /></a>
+<br />
+<p align="left">
+  
+<h2>Metrics and leadership</h2>
+During each Sprint, we logically hold Daily Sprints, meetings to see what he has done, what he will do, what problems he has and what he needs to continue advancing in his tasks. Approaching the end of the sprint, as Scrum Master I had to present KPIs (metrics to measure everyone's performance, both individually and as a group). I learned a lot during this process. In the repository you can find these documents that show the metrics.
