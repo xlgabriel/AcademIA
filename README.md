@@ -31,7 +31,7 @@ Discord channel created by me<br/>
 You can see a distribution by roles in the names of each user, in the same way they are also created and configured internally. Each person has their own channel and shared channels by role, which certainly made communication between the same role and different roles easier. There are channels for files, messages, memes and information. There are several voice channels, even the professor (Software Architect) was on the Discord and used it to communicate.
 
 <h2>User Stories, Miro and Taiga</h2>
-User stories were created from scratch. We had to visualize and capture the functions of the final product, based on real examples such as Classroom, Google Hangouts and other LMS/Chats on the market. The Product Owner and I created the epic user stories, then I was in charge of creating the second generation ones and their validation criteria. You can see an example of this on the following image.<br />
+User stories were created from scratch. We had to visualize and capture the functions of the final product, based on real examples such as Classroom, Google Hangouts and other LMS/Chats on the market. The Product Owner and I created the epic user stories, then I was in charge of creating the second generation ones and their validation criteria. You can see an example of this on the following image.<br /><br />
 <p align="center">
 One of the epics user story with it's children<br/>
 <a href="https://imgur.com/NN4eOV7"><img src="https://i.imgur.com/NN4eOV7.png" title="source: imgur.com" /></a>
