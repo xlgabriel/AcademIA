@@ -1,6 +1,6 @@
 <a href="https://imgur.com/uD3JRBX"><img src="https://i.imgur.com/uD3JRBX.png" title="source: imgur.com" /></a>
 <h2>Description</h2>
-I worked as Scrum Master in a LMS-type open-source collaborative project where the user (teacher, student) can access their academic courses, upload and review multimedia content for educational purposes. It also has Hangouts-style chat, with a plus of AI-type virtual assistant.
+I worked as Scrum Master in a LMS-type open-source collaborative project where the user (teacher, student) can access their academic courses, upload and review multimedia content for educational purposes. It also has Hangouts-style chat, with a plus of AI-type virtual assistant. I managed interactions between team members, communication channels, Daily Sprints, metrics and software to manage the project.
 <h2>Useful links</h2>
 I invite you to check out the files located in this repository, they contain multiple documents related to my Scrum Master's role.
 
