@@ -1,12 +1,13 @@
-# AcademIA
+<a href="https://imgur.com/uD3JRBX"><img src="https://i.imgur.com/uD3JRBX.png" title="source: imgur.com" /></a>
 <h2>Description</h2>
 I worked as Scrum Master in a LMS-type open-source collaborative project where the user (teacher, student) can access their academic courses, upload and review multimedia content for educational purposes. It also has Hangouts-style chat, with a plus of AI-type virtual assistant.
 <h2>Useful links</h2>
+I invite you to check out the files located in this repository, they contain multiple documents related to my Scrum Master's role.
 
 [Miro access for Retro, sprint planning and Scrum Board](https://miro.com/app/board/uXjVPivm5mw=/?share_link_id=10911426886)<br />
 [Taiga access (where the sprints were managed)](https://tree.taiga.io/project/xlgabriel-academia-chat/taskboard/sprint-3-2264)<br />
-[Canva presentation used by Scrum Master and Product Owner](https://www.canva.com/design/DAFbnIWeqeU/kVboGF-K5qgdsqGqs0-ULA/edit)<br />
-I invite you to check out the files located in this repository, they contain multiple documents related to my Scrum Master's role.
+[Canva presentation used by Scrum Master and Product Owner](https://www.canva.com/design/DAFbnIWeqeU/kVboGF-K5qgdsqGqs0-ULA/edit?utm_content=DAFbnIWeqeU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)<br />
+[Figma link to visualize the project's UX/UI work](https://www.figma.com/file/ubbu0RB49jOrYJi1Na42e9/Proyecto-SMA---UX-%2F-UI-Designers?type=design&node-id=2%3A2&mode=design&t=b9r58Y87XUbTtbyH-1)
 
 <h2>Introduction</h2>
 The project called AcademIA arose as a university proposal in a subject called Audiovisual Multimedia Systems. At first, my partners and I chose roles. There was from Product Owner, UX/UI to back-end and Infrastructure. I was the only one who took the role of Scrum Master, because I wanted to experience firsthand the dynamics of managing a project.
