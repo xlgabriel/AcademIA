@@ -51,4 +51,5 @@ Taiga - 3rd Sprint<br/>
 <p align="left">
   
 <h2>Metrics and leadership</h2>
+
 During each Sprint, we logically hold Daily Sprints, meetings to see what he has done, what he will do, what problems he has and what he needs to continue advancing in his tasks. Approaching the end of the sprint, as Scrum Master I had to present KPIs (metrics to measure everyone's performance, both individually and as a group). I learned a lot during this process. In the repository you can find these documents that show the metrics.
